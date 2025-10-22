@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow: Pomodoro & Tasks",
+  "description": "A minimalist to-do list application integrated with a Pomodoro timer to help you stay focused and productive. Manage your tasks, track your work sessions, and find your flow.",
+  "requestFramePermissions": []
+}
